@@ -26,10 +26,6 @@ The 3 parts of the program are :
 
 In order to compare performance I developed another implementations of the Quadratic Sieve algorithm in Maple. Both implementations are basic in the sense that they implement the basic algorithm described above and the code has not been heavily optimized for performance. There are many differences between the two frameworks used that could impact performance. Because of that a direct comparison of running times or memory space may not be meaningful. However it is interesting to notice how each of the implementations scales depending on the size of the problem.
 
-## Performance
-
-I compared the performance of this implementation against a standard implementation in Maple. Here are the performance numbers:
-
 ## References
 
 This was part of the work towards my Ph.D. in Mathematics. I have a page with a few more projects:
