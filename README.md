@@ -30,7 +30,7 @@ In order to compare performance I developed another implementations of the Quadr
 
 This was part of the work towards my Ph.D. in Mathematics. I have a page with a few more projects:
 
-http://www.javiertordable.com/research
+http://www.javiertordable.com/
 
 Hadoop is free and open source, you can get it here:
 
